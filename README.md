@@ -1,6 +1,4 @@
-# A collapsible section with markdown
 <details>
-  <summary>Click to expand!</summary>
+  <summary>ver mais ... </summary>
   
-  asd
 </details>
